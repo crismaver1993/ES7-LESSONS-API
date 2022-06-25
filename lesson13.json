@@ -5,7 +5,7 @@
 		"idEs": 8,
 		"language": "es",
 		"lessonDays": [{
-				"date": "Sábado 17 de septiembre",
+				"date": "17 de septiembre",
 				"dayTitle": "",
 				"id": 131,
 				"idDay": 1,
@@ -17,7 +17,7 @@
 				}]
 			},
 			{
-				"date": "Domingo 18 de septiembre",
+				"date": "18 de septiembre",
 				"dayTitle": "<p>LOS PRIMEROS DÍAS</p>",
 				"id": 132,
 				"idDay": 2,
@@ -29,7 +29,7 @@
 				}]
 			},
 			{
-				"date": "Lunes 19 de septiembre",
+				"date": "19 de septiembre",
 				"dayTitle": "<p>DESPRECIADO Y RECHAZADO POR LOS HOMBRES</p>",
 				"id": 133,
 				"idDay": 3,
@@ -41,7 +41,7 @@
 				}]
 			},
 			{
-				"date": "Martes 20 de septiembre",
+				"date": "20 de septiembre",
 				"dayTitle": "<p>JESÚS EN EL GETSEMANÍ</p>",
 				"id": 134,
 				"idDay": 4,
@@ -53,7 +53,7 @@
 				}]
 			},
 			{
-				"date": "Miércoles 21 de septiembre",
+				"date": "21 de septiembre",
 				"dayTitle": "<p>EL DIOS CRUCIFICADO</p>",
 				"id": 135,
 				"idDay": 5,
@@ -65,7 +65,7 @@
 				}]
 			},
 			{
-				"date": "Jueves 22 de septiembre",
+				"date": "22 de septiembre",
 				"dayTitle": "<p>EL DIOS SUFRIENTE</p>",
 				"id": 136,
 				"idDay": 6,
@@ -77,7 +77,7 @@
 				}]
 			},
 			{
-				"date": "Viernes 23 de septiembre",
+				"date": "23 de septiembre",
 				"dayTitle": "<p>PARA ESTUDIAR Y MEDITAR:</p>",
 				"id": 137,
 				"idDay": 7,
