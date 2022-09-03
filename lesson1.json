@@ -103,6 +103,20 @@
                      "verseText":""
                   }
                ]
+            },
+            {
+               "date":"MAESTROS",
+               "dayTitle":"EL SABADO ENSEÑARË",
+               "id":18,
+               "idDay":8,
+               "idLesson":1,
+               "lessonText":"Lección para maestros",
+               "verses":[
+                  {
+                     "verse":"",
+                     "verseText":""
+                  }
+               ]
             }
          ],
          "lessonNumber":1,
