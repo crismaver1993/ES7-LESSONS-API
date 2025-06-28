@@ -3,7 +3,7 @@
       {
          "color":"#FF5733",
          "id":14,
-         "idEs":20,
+         "idEs":38,
          "language":"es",
          "lessonDays":[
             {
@@ -121,7 +121,7 @@
          ],
          "lessonNumber":14,
          "lessonType":"A",
-         "quarter":"2T2025",
+         "quarter":"3T2025",
          "title":"",
          "verse":"",
          "versionCode":100,
